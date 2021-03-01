@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+h1 {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-size: 1.2rem;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  width: 60%;
+  margin: 0 auto;
+  font-weight: bold;
+}
+input, button {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
